@@ -18,7 +18,7 @@ You should have the following libraries installed before using the game:
 
 The following is the demo video:
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/1g2kJx1qmyE" frameborder="0" allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/1g2kJx1qmyE/0.jpg)](https://www.youtube.com/watch?v=1g2kJx1qmyE)
 
 FOR QUERIES AND PROBLEMS:
 -------------------------
