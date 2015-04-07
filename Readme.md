@@ -24,7 +24,7 @@ FOR QUERIES AND PROBLEMS:
 -------------------------
 Send a mail. (ankprashar@gmail.com)
 
-Contributers:
+Contributors:
 --------------
 - [Ankush Sharma](https://github.com/black_perl)
 - Shivam Verma
