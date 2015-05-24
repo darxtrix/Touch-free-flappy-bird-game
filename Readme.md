@@ -16,7 +16,7 @@ You should have the following libraries installed before using the game:
 - pygame
 - SimpleCV
 
-The following is the demo-video link image:
+Demo **Video** Link:
 
 [![](http://img.youtube.com/vi/1g2kJx1qmyE/0.jpg)](https://www.youtube.com/watch?v=1g2kJx1qmyE)
 
